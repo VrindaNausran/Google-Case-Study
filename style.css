@@ -1,0 +1,11 @@
+img{
+   width: 200px;
+   height: 200px; 
+}
+
+.test_image_and_result {
+    background-color: grey;
+    margin:40px;
+    border-radius: 10px;
+    padding: 20px;
+}
